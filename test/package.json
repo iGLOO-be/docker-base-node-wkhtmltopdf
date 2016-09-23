@@ -1,0 +1,6 @@
+{
+  "name": "test",
+  "dependencies": {
+    "wkhtmltopdf": "^0.3.3"
+  }
+}
