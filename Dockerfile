@@ -1,4 +1,4 @@
-FROM node:6.7.0
+FROM node:6.8.0
 
 # Install dependencies
 RUN echo "# Upgrade apt" \
