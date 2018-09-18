@@ -1,4 +1,4 @@
-FROM node:9.4.0
+FROM node:10.10.0
 
 RUN apt update && \
     apt install -y wget libxrender1 xfonts-utils xfonts-base xfonts-75dpi libfontenc1 x11-common xfonts-encodings libxfont1 fontconfig && \
